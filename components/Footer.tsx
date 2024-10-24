@@ -1,6 +1,5 @@
-import Link from "next/link";
 import React from "react";
-import { FaCcAmex, FaFacebook, FaInstagram, FaPaypal, FaTwitter, FaWhatsapp } from "react-icons/fa";
+import { FaFacebook, FaInstagram, FaPaypal, FaTwitter, FaWhatsapp } from "react-icons/fa";
 import { FiHeadphones } from "react-icons/fi";
 import { FcGoogle } from "react-icons/fc";
 import { SiPhonepe } from "react-icons/si";
