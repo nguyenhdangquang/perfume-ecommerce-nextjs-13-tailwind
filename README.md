@@ -29,6 +29,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Deploy on Vercel
 
-Web app demo: [Vercel Platform](https://perfume-ecommerce-nextjs-13-tailwind.vercel.app/)
+Web app demo: [Perfume Platform](https://perfume-ecommerce-nextjs-13-tailwind.vercel.app/)
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
